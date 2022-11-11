@@ -1,6 +1,7 @@
 package com.bcafinance.fundamental.day4;
 /*
-Created By IntelliJ IDEA 2022.2.3 (Community Edition) 
+https://github.com/archanhs/JF-AHS.git
+Created By IntelliJ IDEA 2022.2.3 (Community Edition)
 @Author ASUS a.k.a. Archan
 ITDP 7
 Created on 10/11/2022
@@ -38,3 +39,4 @@ public class Soal2 {
         }
     }
 }
+

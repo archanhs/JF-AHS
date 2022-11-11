@@ -11,7 +11,7 @@ Version 1.0
 public class Soal1 {
     public static void main(String[] args) {
         int[] intArr = {3,8,5,2,1,9,10};
-        int intB = 1;
+        int intB = 5;
         boolean isFound = true;
         for (int i = 0 ;i<intArr.length;i++){
             if (intB == intArr[i]){
@@ -23,5 +23,6 @@ public class Soal1 {
         if (isFound){
             System.out.println("angka "+intB+" yang anda cari tidak ditemukan!!");
         }
+
     }
 }
